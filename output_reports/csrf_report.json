@@ -1,0 +1,12 @@
+{
+    "Test Type": "CSRF",
+    "Crawled URLs": [
+        "http://testphp.vulnweb.com"
+    ],
+    "Forms Found": 1,
+    "Vulnerabilities": [
+        {
+            "url": "http://testphp.vulnweb.com/search.php?test=query"
+        }
+    ]
+}
