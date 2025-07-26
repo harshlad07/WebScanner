@@ -1,8 +1,11 @@
-beautifulsoup4==4.13.3
+beutifulsoup4==4.13.3
 certifi==2025.1.31
 charset-normalizer==3.4.1
 colorama==0.4.6
+fpdf==1.7.2
 idna==3.10
+markdown2==2.5.3
+pdfkit==1.0.0
 pyfiglet==1.0.2
 requests==2.32.3
 soupsieve==2.6
